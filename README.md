@@ -1,58 +1,39 @@
-# AgriCon-Analysis
-AgriCon Survey Insights: Reducing Crop Loss &amp; Driving Farmer-Centered Innovation
-Innovation
-📊 Project Overview
-This analysis explores key factors contributing to post-harvest crop loss among farmers, using survey data from the AgriCon initiative. The goal is to uncover challenges faced by farmers, such as inadequate storage facilities, lack of market access, and limited technology adoption, and to provide insights for targeted interventions.
+# 🌾 AgriCon Survey Insights: Reducing Crop Loss & Driving Farmer-Centered Innovation  
 
-🔍 Key Insights
-High Spoilage Rates
+![Dashboard Screenshot](Screenshot%202025-08-11%20120429.png)  
 
-Spoilage rates vary significantly, with the highest reported at 38% for certain crops.
+## 📌 Overview  
+This project analyzes survey data from **AgriCon** to understand the major causes of post-harvest crop loss and provide insights for farmer-centered solutions. The findings highlight infrastructure gaps, storage challenges, and technology adoption trends among farmers.  
 
-Major Contributing Factors
+## 🔍 Key Findings  
+- **Crop Spoilage:** Spoilage rates reach up to **38%**, with some crops experiencing severe post-harvest losses.  
+- **Top Challenges:**  
+  - Lack of **dryers** (26 respondents)  
+  - Lack of **coldrooms** (30 respondents)  
+  - Insufficient **processing plants**, market access, and electricity supply  
+- **Storage Situation:**  
+  - **54%** of farmers have no storage  
+  - **24%** own storage  
+  - **22%** rent storage facilities  
+- **Technology & Internet Access:**  
+  - **70%** have internet access, but many still rely on basic or no technology tools.  
 
-Lack of Dryers (26 respondents) and Lack of Coldrooms (30 respondents) are key drivers of spoilage.
+## 📊 Dashboard Features  
+- **Spoilage Rate Analysis** by crop type (yam, cassava, tomatoes, maize, others)  
+- **Infrastructure Gap Analysis** (dryers, coldrooms, processing plants, electricity)  
+- **Storage Medium Distribution** (own, rent, none)  
+- **Technology & Internet Access** patterns  
+- **Interactive Filters** for farm scale, region, and technology level  
 
-Additional issues include lack of processing plants, electricity, and market access.
+## 🛠 Tools & Skills Used  
+- **Microsoft Excel** – Data cleaning, analysis, and dashboard creation  
+- **Data Visualization** – Bar charts, pie charts, and interactive slicers  
+- **Analytical Skills** – Identifying patterns, trends, and correlations  
 
-Crop-Specific Loss Trends
+## 💡 Recommendations  
+1. Invest in cold storage and drying facilities to reduce spoilage.  
+2. Expand rural electrification to support post-harvest infrastructure.  
+3. Strengthen market access for farmers to reduce delays in crop sales.  
+4. Encourage adoption of digital tools for farm and supply chain management.  
 
-Yam, cassava, tomatoes, maize, and other crops show varying vulnerability to spoilage.
-
-Storage Medium Distribution
-
-54% of farmers have no storage, 24% own storage, and 22% rent storage facilities.
-
-Technology & Internet Access
-
-While 70% of farmers have internet access, many still rely on basic or no tech tools.
-
-📈 Dashboard Features
-The interactive dashboard provides:
-
-Crop Spoilage Rate Analysis by crop type.
-
-Infrastructure Gaps (dryers, coldrooms, processing plants).
-
-Storage Medium Distribution pie chart.
-
-Technology & Internet Access patterns.
-
-Filters for farm scale, region, and technology usage.
-
-🛠 Tools & Skills Used
-Microsoft Excel – Data cleaning, visualization, and dashboard creation.
-
-Data Visualization – Bar charts, pie charts, and interactive slicers.
-
-Data Analysis – Identifying patterns, trends, and correlations.
-
-🎯 Recommendations
-Invest in cold storage and drying facilities to reduce spoilage.
-
-Improve rural electrification to support storage infrastructure.
-
-Enhance farmer access to market channels.
-
-Promote adoption of mobile and digital tools for farm management.
-
+---
