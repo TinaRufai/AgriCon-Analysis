@@ -1,6 +1,7 @@
 # 🌾 AgriCon Survey Insights: Reducing Crop Loss & Driving Farmer-Centered Innovation  
 
-![Dashboard Screenshot](Screenshot%202025-08-11%20120429.png)  
+<img width="1313" height="544" alt="Screenshot 2025-08-11 120429" src="https://github.com/user-attachments/assets/55bb1044-2bc6-48b3-8121-8a3839a3d0e5" />
+
 
 ## 📌 Overview  
 This project analyzes survey data from **AgriCon** to understand the major causes of post-harvest crop loss and provide insights for farmer-centered solutions. The findings highlight infrastructure gaps, storage challenges, and technology adoption trends among farmers.  
